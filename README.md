@@ -1,0 +1,1 @@
+Bu ödev Patika css dersi için yapıldı.
