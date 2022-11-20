@@ -2,6 +2,7 @@ h1{
     color:#C539B4;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
+    padding: 10px;
 }
 .link{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -29,14 +30,37 @@ h2{
     list-style-position: inside;
     text-align: center;
 }
-img{
-    width: 350px;
-    height: 370px;
+#img{
+    width:260px;
+    height: 250px;
 }
 .text2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#C539B4;
+    font-weight: bold;
+    font-size: 22px;
+}
+.text3{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .baslik2{
     color: #EF9A53;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#cd{
+padding: 10px;
+margin: 10px;
+width: 18rem;
+}
+
+.price{
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    border-width: 1px;
+    background-color:rgb(107, 104, 104);
+    background-size:cover;
+    border-radius: 5px;
+    display: inline;
+    float: left;
 }

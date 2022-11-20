@@ -1,1 +1,1 @@
-Bu ödev Patika css dersi için yapıldı.
+Bu ödev Patika Bootstrap dersi için yapıldı.
